@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     //This method is to make the app to pop-up a ALERTDIALOGUE text whenever the game reach the final route
+    //
     void theend()
     {
 
